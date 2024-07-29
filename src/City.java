@@ -7,6 +7,10 @@ public class City {
         bankItems[1] = new Item("Stamp",2.5);
         building[0] = new Building("Bank", bankItems);
     }
+
+    public Building[] getBuilding() {
+        return building;
+    }
     
     
 }

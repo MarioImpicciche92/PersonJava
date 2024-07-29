@@ -29,7 +29,7 @@ public class Gang {
         return sumRobbedValue;
     }
 
-    public void getGangInfo(){
+    public void printGangInfo(){
         System.out.println("---------------------------");
 
         for (Criminal criminals:criminal) {
