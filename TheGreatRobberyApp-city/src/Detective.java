@@ -13,3 +13,4 @@ public class Detective extends Person {
         super.printBioData();
     }
 }
+
